@@ -1,0 +1,9 @@
+:root {
+    --bg-color: #000000;
+    --card-bg: #0f0f13; 
+    --text-main: #ffffff;
+    --text-muted: #a0a0a9;
+    --accent: ##8b5cf6;
+    /* weighted / springy animation */
+    --spring: 0.6s cubic-bezier(0.34, 1.56, 0.64, 1);
+}
